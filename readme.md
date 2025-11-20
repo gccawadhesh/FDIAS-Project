@@ -30,9 +30,9 @@ The Home Security System uses AI and video surveillance to enhance home safety b
     ```
     
 ## 🧑‍💻 Team
-1.Harsh Pratap Singh
-2.Arpita Shrivastva
-3.Jyoti Yadav
-4.Laxmi Kapoor
-5.AWADHESH KUMAR
+1.AWADHESH KUMAR
+2.Laxmi Kapoor
+3.Harsh Pratap Singh
+4.Jyoti Yadav
+5.Arpita Shrivastva
 6.Ayush Tripathi
